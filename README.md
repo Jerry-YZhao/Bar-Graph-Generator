@@ -1,1 +1,1 @@
-# BarGraphGenerator-Jitto-Challenge-
+# BarGraphGenerator-JittoChallenge
